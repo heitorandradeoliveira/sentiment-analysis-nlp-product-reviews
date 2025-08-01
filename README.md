@@ -28,6 +28,13 @@ jupyter nbconvert notebook.ipynb --to markdown --no-input
 
 ```
 
+Criando env com environment.yml
+
+```
+conda env create -f environment.yml
+conda activate nome_env
+```
+
 ---
 
 ### 📊 Fonte e Explicação dos Dados
