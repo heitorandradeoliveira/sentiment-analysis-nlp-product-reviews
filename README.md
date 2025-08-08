@@ -230,3 +230,17 @@ Futuramente, pode-se:
 
 - Utilizar **técnicas de balanceamento** (como SMOTE)
 - Explorar **modelos mais robustos** (como Random Forest ou BERT)
+
+---
+
+### Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
+
+---
+
+### Contato
+
+LinkedIn: [linkedin.com/in/heitorandradeoliveira](https://linkedin.com/in/heitorandradeoliveira)
+
+---
